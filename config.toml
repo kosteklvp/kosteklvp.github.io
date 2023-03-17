@@ -1,0 +1,4 @@
+baseURL = 'http://kosteklvp.github.io/'
+languageCode = 'en-us'
+title = 'kosteklvp'
+theme = 'loveit'
